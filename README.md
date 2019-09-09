@@ -1,4 +1,5 @@
 Background
+
 Tower defense (TD) is a subgenre of strategy video game where the goal is to defend a player's territories or possessions by obstructing the enemy attackers, usually achieved by placing defensive structures on or along their path of attack. In JS TD, there will be a path on which enemies will run and and towers will be placed along the path to defeat the enemies. Each wave of enemies will increase in difficulty to defeat.
 
 Functionality & MVP
