@@ -5,8 +5,6 @@ class MovingObject {
         this.radius = options.radius;
         this.color = options.color;
         this.game = options.game;
-
-
     }
 
     draw(ctx){
