@@ -1,5 +1,5 @@
 // import Tile from "./tile"
-export default class Road{
+class Road{
     constructor(x, y, canvas){
         this.x = x;
         this.y = y;
@@ -8,9 +8,10 @@ export default class Road{
         this.fillColor();
     }
     fillColor() {
-        // debugger
+        // debugger 
         this.context.fillStyle = "tan"
         this.context.fillRect(0, 0, this.canvas.width, this.canvas.height);
     }
 
 }
+ module.exports = Road
