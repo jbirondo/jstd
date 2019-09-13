@@ -18,16 +18,6 @@ class Util {
         const norm = Util.norm(vec);
         return Util.scale(vec, 1 / norm);
     }
-
-    wrap(coord, max) {
-        if (coord < 0) {
-            return max - (coord % max);
-        } else if (coord > max) {
-            return coord % max;
-        } else {
-            return coord;
-        }
-    }
 }
 
-module.exports = Util;
+module.exports = Util
