@@ -30,3 +30,5 @@ Implementation Timeline:
 - Day 3: Complete game logic
 
 - Day 4: Install the controls for the user to interact with the game. Style the frontend, making it polished and professional.
+
+[Link](https://jbirondo.github.io/dist/index)
